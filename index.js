@@ -144,8 +144,9 @@ module.exports = {
     console.log(' •-',scope.newPageScriptRelPath);
     console.log();
     console.log('Recuerda...');
-    console.log(' (1)  Estos archivos fuern generados asumiendo que usas AngularJS');
-    console.log('      como framework en el frontend.');
+    console.log(' (1)  Estos archivos fueron generados asumiendo que usas AngularJS');
+    console.log('      como framework en el frontend tal como se demuestra su uso en');
+    console.log('      https://github.com/ecorona/sailsjs-boilerplate');
     console.log();
     console.log(' (2)  Se necesita agregar manualmente la ruta de esta página a su');
     console.log('      acción en el archivo `config/routes.js` ; ej:');

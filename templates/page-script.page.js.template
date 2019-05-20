@@ -1,0 +1,12 @@
+ng.controller('<%= stem %>Controller', ['$rootScope', '$scope',
+  function($rootScope, $scope) {
+    _.extend($scope, SAILS_LOCALS);
+
+    $scope.syncing = false;
+
+    $scope.init = function(){
+      console.log('<%= stem %>Controller ha sido inicializado.');
+    };
+
+  }
+]);

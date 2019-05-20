@@ -1,0 +1,32 @@
+{
+  "name": "sails-generate-angularjs",
+  "version": "1.0.0",
+  "description": "AngularJS page generator for SailsJS" ,
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'No further automated tests have been implemented for this generator yet.'",
+    "pretest": "npm run lint",
+    "lint": "node ./node_modules/eslint/bin/eslint . --max-warnings=0"
+  },
+  "keywords": [
+    "angular",
+    "generator",
+    "sails",
+    "generate",
+    "plugin"
+  ],
+  "author": "Erik Corona <ecorona@live.com>",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": ">=4.17.11"
+  },
+  "devDependencies": {
+    "eslint": "3.19.0"
+  },
+  "repository": {"type":"git","url":"git@github.com:ecorona/sails-generate-angularjs.git"},
+  "sailsGenerator": {
+    "type": "page",
+    "behavior": "Implements or overrides `sails generate page` with an AngularJS flavor page.",
+    "sailsVersion": "^1.2.0"
+  }
+}

@@ -41,7 +41,7 @@ See [Extending Sails > Generators > Custom Generators](https://sailsjs.com/docs/
 <a href="https://sailsjs.com" target="_blank" title="Node.js framework for building realtime APIs."><img src="https://github-camo.global.ssl.fastly.net/9e49073459ed4e0e2687b80eaf515d87b0da4a6b/687474703a2f2f62616c64657264617368792e6769746875622e696f2f7361696c732f696d616765732f6c6f676f2e706e67" width=60 alt="Sails.js logo (small)"/></a>
 
 
-## Bugs &nbsp; [![NPM version](https://badge.fury.io/js/@erik/sails-generate-angular.svg)](http://npmjs.com/package/@erik/sails-generate-angular)
+## Bugs &nbsp; [![NPM version](https://badge.fury.io/js/sails-generate-angularjs.svg)](http://npmjs.com/package/sails-generate-angularjs)
 
 To report a bug, [click here](https://sailsjs.com/bugs).
 
@@ -50,13 +50,13 @@ To report a bug, [click here](https://sailsjs.com/bugs).
 
 Please observe the guidelines and conventions laid out in the [Sails project contribution guide](https://sailsjs.com/documentation/contributing) when opening issues or submitting pull requests.
 
-[![NPM](https://nodei.co/npm/@erik/sails-generate-angular.png?downloads=true)](http://npmjs.com/package/@erik/sails-generate-angular)
+[![NPM](https://nodei.co/npm/sails-generate-angularjs.png?downloads=true)](http://npmjs.com/package/sails-generate-angularjs)
 
 
 
 ## License
 
-This angular generator is available under the **MIT license**.
+This angularjs generator is available under the **MIT license**.
 
 The [Sails framework](https://sailsjs.com) is free and open-source under the [MIT License](https://sailsjs.com/license).
 

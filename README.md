@@ -1,6 +1,6 @@
-# @erik/sails-generate-angularjs
+# sails-generate-angularjs
 
-A `angularjs` generator for use with the Sails command-line interface.
+An `angularjs` flavored page generator for use with the Sails command-line interface.
 
 
 ## Installation

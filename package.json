@@ -21,7 +21,7 @@
     "lodash": ">=4.17.11"
   },
   "devDependencies": {
-    "eslint": "3.19.0"
+    "eslint": "6.7.2"
   },
   "repository": {"type":"git","url":"git@github.com:ecorona/sails-generate-angularjs.git"},
   "sailsGenerator": {
